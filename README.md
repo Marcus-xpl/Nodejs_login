@@ -26,8 +26,7 @@ Permite **cadastrar**, **fazer login**, **listar** e **deletar** usuários, com 
 ##
 Tecnologias usadas:
 
-- [Node.js](https://nodejs.org/)
-
+- <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">Node.js</a>
 
 ##
 Como executar:
